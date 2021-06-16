@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_cmake_generate_dependency</name>
+  <version>0.0.0</version>
+  <description>Links libraries against targets trying different conventions</description>
+
+  <maintainer email="todo@to.do">xaedes</maintainer>
+  <license>MIT</license>
+  <author email="todo@to.do">xaedes</author>
+
+  <url type="repository">TODO</url>
+  <url type="bugtracker">TODO</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <architecture_independent/>
+  </export>
+</package>
