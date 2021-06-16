@@ -3,7 +3,7 @@ Links libraries against targets trying different conventions
 
 ## Example usage:
 
-Suppose you have some libraries that wish to link against, but each one has its own weird convention how to properly link against it:
+Suppose you have some libraries that you wish to link against, but each one has its own weird convention how to properly link:
 
 ```cmake
 target_link_libraries(${LIBRARY_NAME} PUBLIC SomeFancyLibrary)
